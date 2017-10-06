@@ -1,7 +1,7 @@
 # cs241e
 A compiler to convert a subset of Scala into MIPS assembly.
 
-Due to this being a project for a school course, the code is no longer available publicly. <a href="mailto:davepagurek@gmail.com">Send me an email</a> if you are not currently taking CS241e and want to see the source code.
+Due to this being a project for a school course, the code is no longer available publicly. <a href="mailto:davepagurek@gmail.com">Send me an email</a> if you are not currently taking CS241e and want to see the source code. Note that the code shouldn’t be used for fulfilling course requirements.
 
 ## Features
 Using tail recursion and closures, the following code works:
